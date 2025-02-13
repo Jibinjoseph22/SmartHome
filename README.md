@@ -1,4 +1,6 @@
 # Home Automation IoT App 🏠🔌
+![](https://github.com/user-attachments/assets/dffd1315-beec-4e40-a807-2f1afa19a76f)
+
 
 This **Flutter-Firebase-based mobile application** enables users to control their smart home devices remotely. The app integrates with **NodeMCU (ESP8266/ESP32)** via IP address configuration, allowing seamless home automation.
 
